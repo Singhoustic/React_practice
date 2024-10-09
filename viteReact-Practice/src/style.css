@@ -1,0 +1,19 @@
+* {
+	background-color: #000;
+	color: #fff;
+	box-sizing: border-box;
+}
+
+.main {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+}
+button {
+	background-color: rgba(20, 18, 18, 0.708);
+	border-radius: 5px;
+	padding: 5px;
+	margin: 4px;
+}
