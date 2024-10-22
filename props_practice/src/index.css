@@ -3,12 +3,16 @@
 	padding: 0;
 	box-sizing: border-box;
 	background-color: #000;
-	color: white;
 }
 
 .main {
+	color: white;
 	height: 100vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	flex-direction: column;
+}
+button {
+	color: white;
 }
